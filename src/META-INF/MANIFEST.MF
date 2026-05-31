@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: log4j-api-2.8.2.jar jackson-annotations-2.9.0.jar aliyun-s
+ dk-oss-2.8.3.jar okio-1.14.0.jar slf4j-log4j12-1.7.21.jar jna-4.2.2.j
+ ar fastjson-1.2.55.jar jackson-databind-2.9.8.jar junit-4.12.jar comm
+ ons-codec-1.10.jar jackson-core-2.9.8.jar commons-crypto-1.0.0.jar js
+ on-20180130.jar commons-logging-1.2.jar bcprov-jdk15on-1.59.jar esdk-
+ obs-java-3.1.1.jar jdom-1.1.jar okhttp-3.11.0.jar httpclient-4.5.3.ja
+ r hamcrest-core-1.3.jar cos-sts-java-3.0.3.jar httpcore-4.4.6.jar cos
+ _api-5.5.1.jar log4j-core-2.8.2.jar java-xmlbuilder-1.1.jar commons-i
+ o-2.6.jar slf4j-api-1.7.21.jar log4j-1.2.17.jar httpmime-4.5.5.jar jo
+ da-time-2.9.9.jar
+
